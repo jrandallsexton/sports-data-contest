@@ -1,1 +1,1 @@
-# sports-data-event
+# sports-data-contest
